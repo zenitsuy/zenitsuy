@@ -1,4 +1,6 @@
 ## Hi there 👋
+Im Zenitsuy, I write random Shell Programs and some other Stuff
+I primarily write in C but I am currently leaning rust.
 
 <!--
 **zenitsuy/zenitsuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
