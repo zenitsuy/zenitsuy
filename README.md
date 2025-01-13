@@ -1,9 +1,8 @@
 ## Hi there 👋
-Im Zenitsuy, I write random Shell Programs and some other Stuff.
+Im Zenitsuy, I write random Stuff, particularly involving either graphics or embedded devices.
 
-I primarily write in C but I am currently leaning rust.
+I primarily write in C but I am currently trying out a few "modern" languages like Rust and Odin
 
-I love embedded and other low level programming.
 <!--
 **zenitsuy/zenitsuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
